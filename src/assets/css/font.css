@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Italic-variable';
+    src: url('../fonts/Figtree-Italic-VariableFont_wght.ttf') format('ttf');
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'variable';
+    src: url('../fonts/Figtree-VariableFont_wght.ttf') format('ttf');
+    font-style: normal;
+    font-display: swap;
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 13">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="design">
+    <g>
+      <path class="cls-1" d="m12.26,6.55L6.45.74c-.15-.15-.36-.24-.57-.24H1.31c-.45,0-.81.36-.81.81v4.57c0,.21.09.42.24.57l5.81,5.81c.32.32.83.32,1.14,0l4.57-4.57c.32-.32.32-.83,0-1.14Z"/>
+      <circle class="cls-1" cx="3.93" cy="3.93" r=".81"/>
+    </g>
+  </g>
+</svg>

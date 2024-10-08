@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 13">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+      }
+    </style>
+  </defs>
+  <g id="design">
+    <path class="cls-1" d="m16.5,13H.5c-.28,0-.5-.22-.5-.5V.5C0,.22.22,0,.5,0h16c.28,0,.5.22.5.5v12c0,.28-.22.5-.5.5Zm-15.5-1h15V1H1v11Z"/>
+  </g>
+</svg>
